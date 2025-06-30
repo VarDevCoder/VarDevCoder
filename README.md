@@ -39,7 +39,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Commits this month](https://github-readme-activity-graph.vercel.app/graph?username=VarDevCoder&theme=github-dark)
+![Adrian's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarDevCoder&area=true&theme=github-dark&custom_title=GitHub%20Activity%20Graph)
 > 🚀 En junio 2025:
 > - 164 commits en 12 repositorios  
 > - Creación de 12 nuevos proyectos  

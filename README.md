@@ -40,13 +40,17 @@
   <img src="https://skillicons.dev/icons?i=docker,github,vscode&theme=dark" />
 
   <p><strong>💾 Bases de Datos</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mssql&theme=dark" />
 
   <p><strong>🎨 Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript&theme=dark" />
 
   <p><strong>🧠 Backend</strong></p>
   <img src="https://skillicons.dev/icons?i=python,php,laravel,java,nestjs,nodejs,express&theme=dark" />
+
+  <p><strong>🧩 IDEs / Herramientas extra</strong></p>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <p style="color:gray;">(⚠️ NetBeans y SSMS no están disponibles en skillicons.dev)</p>
 
 </div>
 

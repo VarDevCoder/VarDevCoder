@@ -70,31 +70,10 @@
 </div>
 
 ### **🔥 Junio 2025**
-- ✅ **171 commits** creados en 12 repositorios
-- 🆕 **12 nuevos repositorios** desarrollados
 - ⚖️ **Sistema jurídico** en desarrollo activo
 - 🏢 **ERP** en fase de arquitectura
-- 📊 **262 contribuciones** totales en el año
-
-### **💻 Actividad Reciente**
-- 🚀 **Alta productividad** en desarrollo
 - 🤖 **Enfoque en automatización** de sistemas
-- ⚡ **Creación acelerada** de proyectos
-- 📈 **Consistencia** en commits diarios
 
----
-
-<div align="center">
-
-## 🎯 **Current Focus**
-
-**`System Automation` • `Legal Management System` • `ERP Development` • `TypeScript Mastery`**
-
-</div>
-
----
-
-<div align="center">
 
 ## 💡 **Let's Connect!**
 

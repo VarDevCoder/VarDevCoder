@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 / ¡Hola!
+# Hi / ¡Hola!
 
 ### I'm Adrian Martínez • Fullstack Web Developer from Paraguay
 
@@ -36,12 +36,14 @@
 
 <div align="center">
 
-## 🛠️ **Languages and Tools**
-
-[<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,sqlite,reactnative,html,css,tailwind,github,vscode&theme=dark" />](https://skillicons.dev/icons?i=python,php,laravel,java,nestjs,nodejs,express,html,css,js,react,typescript,cpp,docker&theme=dark
-)
-
-</div>
+Backend
+<img src="https://skillicons.dev/icons?i=python,php,laravel,java,nestjs,nodejs,express&theme=dark" />
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript&theme=dark" />
+Bases de Datos
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+Deploy & DevOps
+<img src="https://skillicons.dev/icons?i=docker,github,vscode&theme=dark" />
 
 <div align="center">
 
@@ -49,10 +51,10 @@
 
 </div>
 
-### **🔥 Junio 2025**
-- ⚖️ **Sistema jurídico** en desarrollo activo
-- 🏢 **ERP** en fase de arquitectura
-- 🤖 **Enfoque en automatización** de sistemas
+### **Junio 2025**
+- **Sistema jurídico** en desarrollo activo
+- **ERP** en fase de arquitectura
+- **Enfoque en automatización** de sistemas
 
 
 ## 💡 **Let's Connect!**

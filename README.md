@@ -46,7 +46,8 @@
 ## 🔥 **Activity Graph**
 
 <!-- Tu gráfico real de actividad -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarDevCoder&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true&custom_title=Adrian's%20Real%20Activity%20Graph)
+[![Ver gráfico personalizado](https://img.shields.io/badge/🔥%20Ver%20Gráfico%20Interactivo-red?style=for-the-badge&logo=github)](https://leafy-chebakia-a19617.netlify.app/)
+
 
 </div>
 

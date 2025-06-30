@@ -52,25 +52,6 @@
 
 ---
 
-<div align="center">
-
-## 🚀 **Deployment & Commits Stats**
-
-</div>
-
-| 📈 **Metric** | 🔥 **Current** | 🎯 **Goal** | 📊 **Progress** |
-|---------------|----------------|-------------|-----------------|
-| **Total Contributions** | 262 | 500+ | ![52%](https://progress-bar.dev/52?color=ff6b6b) |
-| **Active Repos** | 12 (mostly private) | 25+ | ![48%](https://progress-bar.dev/48?color=ff6b6b) |
-| **June Commits** | 171 | 200+ | ![85%](https://progress-bar.dev/85?color=ff6b6b) |
-| **Monthly Average** | 85+ commits | 100+ | ![85%](https://progress-bar.dev/85?color=ff6b6b) |
-| **Repository Creation** | 12 repos (June) | 15+ | ![80%](https://progress-bar.dev/80?color=ff6b6b) |
-| **Consistency** | High activity | Maintain | ![90%](https://progress-bar.dev/90?color=ff6b6b) |
-
----
-
-<div align="center">
-
 ## 🔥 **Development Metrics**
 
 ![Total Contributions](https://img.shields.io/badge/Contributions-262-ff6b6b?style=for-the-badge&logo=github&logoColor=white)

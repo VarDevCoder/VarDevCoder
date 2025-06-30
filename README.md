@@ -41,27 +41,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,sqlite,reactnative,html,css,tailwind,github,vscode&theme=dark" />
 
 </div>
-
----
-## 🔥 **Activity Graph**
-
-<!-- Tu gráfico real de actividad -->
-[![Ver gráfico personalizado](https://img.shields.io/badge/🔥%20Ver%20Gráfico%20Interactivo-red?style=for-the-badge&logo=github)](https://leafy-chebakia-a19617.netlify.app/)
-
-
-</div>
-
----
-
-## 🔥 **Development Metrics**
-
-![Total Contributions](https://img.shields.io/badge/Contributions-262-ff6b6b?style=for-the-badge&logo=github&logoColor=white)
-![June Commits](https://img.shields.io/badge/June_Commits-171-ff6b6b?style=for-the-badge&logo=git&logoColor=white)
-![Repositories](https://img.shields.io/badge/New_Repos-12-ff6b6b?style=for-the-badge&logo=repo&logoColor=white)
-![Activity](https://img.shields.io/badge/Status-Highly_Active-ff6b6b?style=for-the-badge&logo=zap&logoColor=white)
-
-</div>
-
 ---
 
 <div align="center">

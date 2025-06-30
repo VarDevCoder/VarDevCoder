@@ -33,7 +33,6 @@
 - ✨ **Dato curioso:** Estoy obsesionado con la automatización de sistemas y flujos de trabajo
 
 ---
-
 <div align="center">
 
   <p><strong>🛠️ Deploy & DevOps</strong></p>
@@ -43,10 +42,10 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
 
   <p><strong>🎨 Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
 
   <p><strong>🧠 Backend</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,java,nestjs,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,express,nestjs,python,php,laravel,java&theme=dark" />
 
 </div>
 

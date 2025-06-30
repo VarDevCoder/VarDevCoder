@@ -46,15 +46,14 @@
 
 <div align="center">
 
-## 📊 **GitHub Stats (Mockup)**
+## 📊 **GitHub Stats**
 
-<!-- Estas son las stats que tendrías con mejor actividad -->
+<!-- Tus stats reales -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarDevCoder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff&custom_title=Adrian's%20GitHub%20Stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VarDevCoder&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denvercoder1&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarDevCoder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&langs_count=8)
 
 </div>
 
@@ -62,10 +61,10 @@
 
 <div align="center">
 
-## 🔥 **Activity Graph (Mockup)**
+## 🔥 **Activity Graph**
 
-<!-- Esta sería tu actividad con commits más constantes -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true&custom_title=Adrian's%20Consistent%20Activity)
+<!-- Tu gráfico real de actividad -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarDevCoder&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true&custom_title=Adrian's%20Real%20Activity%20Graph)
 
 </div>
 

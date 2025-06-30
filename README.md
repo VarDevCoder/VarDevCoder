@@ -50,18 +50,6 @@
 </div>
 
 
-
-
-## 🚀 **Recent Highlights**
-
-</div>
-
-### **Junio 2025**
-- **Sistema jurídico** en desarrollo activo
-- **ERP** en fase de arquitectura
-- **Enfoque en automatización** de sistemas
-
-
 ## 💡 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1n-martinez-7b5472212/)

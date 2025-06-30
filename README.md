@@ -79,12 +79,12 @@
 
 | 📈 **Metric** | 🔥 **Current** | 🎯 **Goal** | 📊 **Progress** |
 |---------------|----------------|-------------|-----------------|
-| **Total Commits** | 216 | 500+ | ![43%](https://progress-bar.dev/43?color=ff6b6b) |
-| **Active Repos** | 19 (12 private) | 30+ | ![63%](https://progress-bar.dev/63?color=ff6b6b) |
-| **Contribution Streak** | 12 days | 60+ days | ![20%](https://progress-bar.dev/20?color=ff6b6b) |
-| **Private Projects** | 12 | 15+ | ![80%](https://progress-bar.dev/80?color=ff6b6b) |
-| **Deployments** | 5 | 15+ | ![33%](https://progress-bar.dev/33?color=ff6b6b) |
-| **Lines of Code** | 15K+ | 30K+ | ![50%](https://progress-bar.dev/50?color=ff6b6b) |
+| **Total Contributions** | 262 | 500+ | ![52%](https://progress-bar.dev/52?color=ff6b6b) |
+| **Active Repos** | 12 (mostly private) | 25+ | ![48%](https://progress-bar.dev/48?color=ff6b6b) |
+| **June Commits** | 171 | 200+ | ![85%](https://progress-bar.dev/85?color=ff6b6b) |
+| **Monthly Average** | 85+ commits | 100+ | ![85%](https://progress-bar.dev/85?color=ff6b6b) |
+| **Repository Creation** | 12 repos (June) | 15+ | ![80%](https://progress-bar.dev/80?color=ff6b6b) |
+| **Consistency** | High activity | Maintain | ![90%](https://progress-bar.dev/90?color=ff6b6b) |
 
 ---
 
@@ -115,10 +115,10 @@ Legend: ████ High Activity  ██░░ Moderate  █░░░ Low  ░
 
 ## 🔥 **Development Metrics**
 
-![Commits](https://img.shields.io/badge/Total_Commits-216+-ff6b6b?style=for-the-badge&logo=git&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-19+-ff6b6b?style=for-the-badge&logo=github&logoColor=white)
-![Private Projects](https://img.shields.io/badge/Private_Projects-12-ff6b6b?style=for-the-badge&logo=lock&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-8+-ff6b6b?style=for-the-badge&logo=code&logoColor=white)
+![Total Contributions](https://img.shields.io/badge/Contributions-262-ff6b6b?style=for-the-badge&logo=github&logoColor=white)
+![June Commits](https://img.shields.io/badge/June_Commits-171-ff6b6b?style=for-the-badge&logo=git&logoColor=white)
+![Repositories](https://img.shields.io/badge/New_Repos-12-ff6b6b?style=for-the-badge&logo=repo&logoColor=white)
+![Activity](https://img.shields.io/badge/Status-Highly_Active-ff6b6b?style=for-the-badge&logo=zap&logoColor=white)
 
 </div>
 
@@ -131,18 +131,17 @@ Legend: ████ High Activity  ██░░ Moderate  █░░░ Low  ░
 </div>
 
 ### **🔥 Junio 2025**
-- ✅ **164 commits** en 12 repositorios
-- 🆕 **Creación de 12 nuevos proyectos**
+- ✅ **171 commits** creados en 12 repositorios
+- 🆕 **12 nuevos repositorios** desarrollados
 - ⚖️ **Sistema jurídico** en desarrollo activo
 - 🏢 **ERP** en fase de arquitectura
-- 🚀 **3 deployments** exitosos en producción
+- 📊 **262 contribuciones** totales en el año
 
-### **💻 Mayo 2025**
-- ✅ **52 commits** en 7 repositorios
+### **💻 Actividad Reciente**
+- 🚀 **Alta productividad** en desarrollo
 - 🤖 **Enfoque en automatización** de sistemas
-- ⚡ **Optimización de workflows** y procesos
-- 📈 **Mejoras significativas** en TypeScript
-- 🔧 **2 deployments** de aplicaciones
+- ⚡ **Creación acelerada** de proyectos
+- 📈 **Consistencia** en commits diarios
 
 ---
 

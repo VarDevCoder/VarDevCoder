@@ -79,12 +79,12 @@
 
 | 📈 **Metric** | 🔥 **Current** | 🎯 **Goal** | 📊 **Progress** |
 |---------------|----------------|-------------|-----------------|
-| **Total Commits** | 216 | 500+ | ![40%](https://progress-bar.dev/43?color=ff6b6b) |
-| **Active Repos** | 19 | 30+ | ![60%](https://progress-bar.dev/63?color=ff6b6b) |
-| **Contribution Streak** | 12 days | 100+ days | ![10%](https://progress-bar.dev/12?color=ff6b6b) |
-| **Stars Earned** | 8 | 50+ | ![15%](https://progress-bar.dev/16?color=ff6b6b) |
-| **Deployments** | 5 | 25+ | ![20%](https://progress-bar.dev/20?color=ff6b6b) |
-| **PRs Created** | 3 | 20+ | ![15%](https://progress-bar.dev/15?color=ff6b6b) |
+| **Total Commits** | 216 | 500+ | ![43%](https://progress-bar.dev/43?color=ff6b6b) |
+| **Active Repos** | 19 (12 private) | 30+ | ![63%](https://progress-bar.dev/63?color=ff6b6b) |
+| **Contribution Streak** | 12 days | 60+ days | ![20%](https://progress-bar.dev/20?color=ff6b6b) |
+| **Private Projects** | 12 | 15+ | ![80%](https://progress-bar.dev/80?color=ff6b6b) |
+| **Deployments** | 5 | 15+ | ![33%](https://progress-bar.dev/33?color=ff6b6b) |
+| **Lines of Code** | 15K+ | 30K+ | ![50%](https://progress-bar.dev/50?color=ff6b6b) |
 
 ---
 
@@ -99,3 +99,82 @@
 
     Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
 Mon ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
+Tue ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
+Wed ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
+Thu ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
+Fri ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
+Sat ██░░ ██░░ ██░░ ██░░ ██░░ ██░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
+Sun █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
+
+Legend: ████ High Activity  ██░░ Moderate  █░░░ Low  ░░░░ Future
+```
+
+---
+
+<div align="center">
+
+## 🔥 **Development Metrics**
+
+![Commits](https://img.shields.io/badge/Total_Commits-216+-ff6b6b?style=for-the-badge&logo=git&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-19+-ff6b6b?style=for-the-badge&logo=github&logoColor=white)
+![Private Projects](https://img.shields.io/badge/Private_Projects-12-ff6b6b?style=for-the-badge&logo=lock&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-8+-ff6b6b?style=for-the-badge&logo=code&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **Recent Highlights**
+
+</div>
+
+### **🔥 Junio 2025**
+- ✅ **164 commits** en 12 repositorios
+- 🆕 **Creación de 12 nuevos proyectos**
+- ⚖️ **Sistema jurídico** en desarrollo activo
+- 🏢 **ERP** en fase de arquitectura
+- 🚀 **3 deployments** exitosos en producción
+
+### **💻 Mayo 2025**
+- ✅ **52 commits** en 7 repositorios
+- 🤖 **Enfoque en automatización** de sistemas
+- ⚡ **Optimización de workflows** y procesos
+- 📈 **Mejoras significativas** en TypeScript
+- 🔧 **2 deployments** de aplicaciones
+
+---
+
+<div align="center">
+
+## 🎯 **Current Focus**
+
+**`System Automation` • `Legal Management System` • `ERP Development` • `TypeScript Mastery`**
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 **Let's Connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1n-martinez-7b5472212/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om1779468@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/595984141644)
+
+**📧 om1779468@gmail.com** • **📱 +595 984 141 644**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **"Automating the future, one system at a time"** 🌟
+
+![Profile Views](https://komarev.com/ghpvc/?username=VarDevCoder&label=Profile%20Views&color=ff6b6b&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/VarDevCoder?label=Followers&style=flat-square&color=ff6b6b)
+
+</div>

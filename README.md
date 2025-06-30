@@ -12,39 +12,39 @@
 
 ## 🇬🇧 **English**
 
-- 🔠 **Working on** two projects: a legal management system and an ERP (more info & links coming soon)
-- 🌱 **Currently** diving deeper into system automation
-- 🗣️ **Ask me about** TypeScript, fullstack systems, CRUD workflows, React or anything you like
-- 📧 **Reach me:** om1779468@gmail.com
-- 📱 **Phone:** +595 984 141 644
-- 🔗 **LinkedIn:** [adrián-martinez-7b5472212](https://www.linkedin.com/in/adri%C3%A1n-martinez-7b5472212/)
-- ✨ **Fun fact:** I'm obsessed with automating systems and workflows
+- **Working on** two projects: a legal management system and an ERP (more info & links coming soon)
+- **Currently** diving deeper into system automation
+- **Ask me about** TypeScript, fullstack systems, CRUD workflows, React or anything you like
+- **Reach me:** om1779468@gmail.com
+- **Phone:** +595 984 141 644
+- **LinkedIn:** [adrián-martinez-7b5472212](https://www.linkedin.com/in/adri%C3%A1n-martinez-7b5472212/)
+- **Fun fact:** I'm obsessed with automating systems and workflows
 
 ---
 
 ## 🇪🇸 **Español**
 
-- 🔠 **Actualmente desarrollando** dos proyectos: un sistema jurídico y un ERP (habrá novedades y enlaces pronto)
-- 🌱 **Enfocado en** profundizar en automatización de sistemas
-- 🗣️ **Consultame sobre** TypeScript, sistemas fullstack, CRUDs, React o lo que quieras
-- 📧 **Contacto:** om1779468@gmail.com
-- 📱 **Teléfono:** +595 984 141 644
-- 🔗 **LinkedIn:** [adrián-martinez-7b5472212](https://www.linkedin.com/in/adri%C3%A1n-martinez-7b5472212/)
-- ✨ **Dato curioso:** Estoy obsesionado con la automatización de sistemas y flujos de trabajo
+- **Actualmente desarrollando** dos proyectos: un sistema jurídico y un ERP (habrá novedades y enlaces pronto)
+- **Enfocado en** profundizar en automatización de sistemas
+- **Consultame sobre** TypeScript, sistemas fullstack, CRUDs, React o lo que quieras
+- **Contacto:** om1779468@gmail.com
+- **Teléfono:** +595 984 141 644
+- **LinkedIn:** [adrián-martinez-7b5472212](https://www.linkedin.com/in/adri%C3%A1n-martinez-7b5472212/)
+- **Dato curioso:** Estoy obsesionado con la automatización de sistemas y flujos de trabajo
 
 ---
 <div align="center">
 
-  <p><strong>🛠️ Deploy & DevOps</strong></p>
+  <p><strong> Deploy & DevOps</strong></p>
   <img src="https://skillicons.dev/icons?i=docker,github,vscode&theme=dark" />
 
-  <p><strong>💾 Bases de Datos</strong></p>
+  <p><strong> Bases de Datos</strong></p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
 
-  <p><strong>🎨 Frontend</strong></p>
+  <p><strong> Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
 
-  <p><strong>🧠 Backend</strong></p>
+  <p><strong> Backend</strong></p>
   <img src="https://skillicons.dev/icons?i=js,typescript,nodejs,express,nestjs,python,php,laravel,java&theme=dark" />
 
 </div>

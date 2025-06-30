@@ -43,24 +43,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-## 📊 **GitHub Stats**
-
-<!-- Tus stats reales -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarDevCoder&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VarDevCoder&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarDevCoder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff&langs_count=8)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🔥 **Activity Graph**
 
 <!-- Tu gráfico real de actividad -->
@@ -72,7 +54,7 @@
 
 <div align="center">
 
-## 🚀 **Deployment & Commits Stats (Mockup)**
+## 🚀 **Deployment & Commits Stats**
 
 </div>
 
@@ -84,29 +66,6 @@
 | **Monthly Average** | 85+ commits | 100+ | ![85%](https://progress-bar.dev/85?color=ff6b6b) |
 | **Repository Creation** | 12 repos (June) | 15+ | ![80%](https://progress-bar.dev/80?color=ff6b6b) |
 | **Consistency** | High activity | Maintain | ![90%](https://progress-bar.dev/90?color=ff6b6b) |
-
----
-
-<div align="center">
-
-## 📈 **Monthly Commit Pattern (Ideal)**
-
-</div>
-
-```
-🔥 Productivity Heatmap (Target Pattern)
-
-    Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
-Mon ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
-Tue ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
-Wed ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
-Thu ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
-Fri ████ ████ ████ ████ ████ ████ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
-Sat ██░░ ██░░ ██░░ ██░░ ██░░ ██░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
-Sun █░░░ █░░░ █░░░ █░░░ █░░░ █░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░ ░░░░
-
-Legend: ████ High Activity  ██░░ Moderate  █░░░ Low  ░░░░ Future
-```
 
 ---
 

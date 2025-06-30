@@ -38,10 +38,10 @@
 
 ## 🛠️ **Languages and Tools**
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,sqlite,reactnative,html,css,tailwind,github,vscode&theme=dark" />
+[<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,sqlite,reactnative,html,css,tailwind,github,vscode&theme=dark" />](https://skillicons.dev/icons?i=python,php,laravel,java,nestjs,nodejs,express,html,css,js,react,typescript,cpp,docker&theme=dark
+)
 
 </div>
----
 
 <div align="center">
 

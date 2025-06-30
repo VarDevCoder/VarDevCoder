@@ -9,25 +9,25 @@
 
 ## 🇬🇧 English
 
-- 🔭 Working on fullstack projects with React, Node.js, PostgreSQL and REST APIs
-- 🌱 Always learning new tools like React Native and deploying on Render/Vercel
-- 💬 Ask me about JavaScript, clean code, CRUD systems and fullstack workflows
-- 📫 Reach me: om1779468@gmail.com •
+- 🔠 Working on two projects: a legal management system and an ERP (more info & links coming soon)
+- 🌱 Currently diving deeper into system automation
+- 🗣️ Ask me about TypeScript, fullstack systems, CRUD workflows, React or anything you like
+- 📧 Reach me: om1779468@gmail.com
 - 📱 +595 984 141 644
 - 🔗 LinkedIn: https://www.linkedin.com/in/adrian-martinez
-- ⚡ Fun fact: I enjoy automating tasks and building UI clones
+- ✨ Fun fact: I'm obsessed with automating systems and workflows
 
 ---
 
 ## 🇪🇸 Español
 
-- 🔭 Trabajando en proyectos fullstack con React, Node.js, PostgreSQL y APIs REST
-- 🌱 Aprendiendo React Native y despliegue en Render/Vercel
-- 💬 Consultas: JavaScript, código limpio, sistemas CRUD y flujos fullstack
-- 📫 Contacto: om1779468@gmail.com 
+- 🔠 Actualmente desarrollando dos proyectos: un sistema jurídico y un ERP (habrá novedades y enlaces pronto)
+- 🌱 Enfocado en profundizar en automatización de sistemas
+- 🗣️ Consultame sobre TypeScript, sistemas fullstack, CRUDs, React o lo que quieras
+- 📧 Contacto: om1779468@gmail.com
 - 📱 +595 984 141 644
 - 🔗 LinkedIn: https://www.linkedin.com/in/adrian-martinez
-- ⚡ Dato curioso: Disfruto automatizar tareas y crear clones de interfaces gráficas
+- ✨ Dato curioso: Estoy obsesionado con la automatización de sistemas y flujos de trabajo
 
 ---
 
@@ -38,6 +38,6 @@
 
 ---
 
-### 📈 GitHub Stats  
+### 📊 GitHub Stats  
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarDevCoder&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarDevCoder&layout=compact&theme=radical)

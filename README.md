@@ -14,7 +14,7 @@
 - 🗣️ Ask me about TypeScript, fullstack systems, CRUD workflows, React or anything you like
 - 📧 Reach me: om1779468@gmail.com
 - 📱 +595 984 141 644
-- 🔗 LinkedIn: https://www.linkedin.com/in/adrian-martinez
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-martinez)
 - ✨ Fun fact: I'm obsessed with automating systems and workflows
 
 ---
@@ -26,7 +26,7 @@
 - 🗣️ Consultame sobre TypeScript, sistemas fullstack, CRUDs, React o lo que quieras
 - 📧 Contacto: om1779468@gmail.com
 - 📱 +595 984 141 644
-- 🔗 LinkedIn: https://www.linkedin.com/in/adrian-martinez
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-martinez)
 - ✨ Dato curioso: Estoy obsesionado con la automatización de sistemas y flujos de trabajo
 
 ---

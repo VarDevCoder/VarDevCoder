@@ -35,26 +35,26 @@
 ---
 
 <div align="center">
-
-Backend
-<img src="https://skillicons.dev/icons?i=python,php,laravel,java,nestjs,nodejs,express&theme=dark" />
+Deploy & DevOps
+<img src="https://skillicons.dev/icons?i=docker,github,vscode&theme=dark" />
 <div align="center">
+  
 <div align="center">
+Bases de Datos
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
 
+<div align="center">
 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript&theme=dark" />
 <div align="center">
-<div align="center">
-
-Bases de Datos
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
-<div align="center">
-<div align="center">
-
-Deploy & DevOps
-<img src="https://skillicons.dev/icons?i=docker,github,vscode&theme=dark" />
 
 <div align="center">
+Backend
+<img src="https://skillicons.dev/icons?i=python,php,laravel,java,nestjs,nodejs,express&theme=dark" />
+<div align="center">
+
+
+
 
 ## 🚀 **Recent Highlights**
 

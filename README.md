@@ -88,10 +88,3 @@
 ---
 
 <div align="center">
-
-### 🌟 **"Automating the future, one system at a time"** 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=VarDevCoder&label=Profile%20Views&color=ff6b6b&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/VarDevCoder?label=Followers&style=flat-square&color=ff6b6b)
-
-</div>
